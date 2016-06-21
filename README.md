@@ -21,7 +21,7 @@ Alexa: OK, I've booked court 2 for you tomorrow at 10am
 # Utterances
 
 I'm using flutterance here so you need to run this command to generate the utterance.txt file.
-``flutterance config/flutterances.txt utterances.txt``
+``flutterance alexa_config/flutterances.txt alexa_config/utterances.txt``
 
 
 ## Installation
