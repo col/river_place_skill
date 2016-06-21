@@ -22,6 +22,7 @@ use Mix.Config
 #
 
 config :river_place_skill, app_id: "RiverPlaceSkill"
+config :river_place_skill, river_place_api: RiverPlace
 
 # It is also possible to import configuration files, relative to this
 # directory. For example, you can emulate configuration per environment
